@@ -1,0 +1,1 @@
+("6.9" ("c56551a52cf8281fa056efcbefb837ec95ef0ef3" . "21044404e5cb25ec1400ce6a4b4e7f5673148e20") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"sicp" #"lang" #"reader.rkt") (collects #"sicp" #"main.rkt"))
